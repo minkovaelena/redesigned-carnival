@@ -37,3 +37,5 @@ if __name__ == "__main__":
 # Update 2025-12-21 04:15
 
 # Update 2025-12-28 09:49
+
+# Added error handling for edge cases
